@@ -58,7 +58,6 @@ Credits
 -------
 
 Jeferson Brito
-Developer
 
 E-mail: nashbox@gmail.com or jeferson@nimbus42.com.br
 
