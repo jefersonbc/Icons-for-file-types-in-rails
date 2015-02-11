@@ -3,8 +3,8 @@ A easy way to show icons for file types in rails/ruby (Paperclip, CarrierWave, e
 
 Requirements
 ------------
-
-Put the images for the icons on the folder ```file_type_icons```, inside the ```/public``` folder.
+- Ruby and Ruby on Rails (:P) - Tested in Ruby 2.0.0 and Rails 4.1.8.
+- Put the images for the icons on the folder ```file_type_icons```, inside the ```/public``` folder.
 
 Usage
 -----
